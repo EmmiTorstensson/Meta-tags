@@ -1,0 +1,22 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+
+}
+
+nav, a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: skyblue;
+    text-align: center;
+}
+
+.meny{
+    text-decoration: none;
+    
+}
